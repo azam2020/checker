@@ -22,7 +22,7 @@ else if(y===4){
 }
 else {
     document.getElementById("demo1").innerHTML = 
-    "<img src='cele.jpg' alt=''>" + "<br>" +  "Hello " + x + ","+"<br>"+" Great job in prioritizing your health and hygiene! Your dedication to personal fitness and hygiene is truly commrndable and serves as a positive example for others to follow.";
+    "<img src='cele.jpg' alt=''>" + "<br>" +  "Hello " + x + ","+"<br>"+" Great job in prioritizing your health and hygiene! Your dedication to personal fitness and hygiene is truly commrendable and serves as a positive example for others to follow.";
 }
 // document.getElementById("demo2").innerHTML = 
 
