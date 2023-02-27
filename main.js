@@ -2,7 +2,7 @@
 var y = Math.random()*5 + 1;
 y  = Math.floor(y);
 
-var x = prompt("What is your name?");
+var x = prompt("Enter your name to know mrore about you?");
 if(y===1)
 {
     document.getElementById("demo1").innerHTML = 
