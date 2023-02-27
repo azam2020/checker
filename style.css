@@ -1,0 +1,28 @@
+body{
+   font-family: cursive;
+    text-align: center;
+    background-color: goldenrod;
+}
+
+h1{
+    font-weight: bolder;
+    color:  red;
+    text-transform: capitalize;
+    
+}
+p{
+    font-size: larger;
+}
+
+#demo{
+    font-family: Asul;
+     color: yellow;
+}
+
+#demo1{
+    font-size: larger;
+    font-family: Asul;
+    color: green;
+    font-weight: bolder;
+    margin: 80px auto 0;
+}
